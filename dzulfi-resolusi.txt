@@ -2,3 +2,5 @@ DZULFI RESOLUSI
   - Belajar Coding
   - Mengerti Tentang Git
   - Membuat Website Bagus
+  - Membuat Website Online Shop
+  - Membuat Website Portofolio Yang Bagus
