@@ -1,0 +1,4 @@
+Rencana Kedepan
+  -mengerti react.js
+  -mengerti node.js
+  -mengerti git
