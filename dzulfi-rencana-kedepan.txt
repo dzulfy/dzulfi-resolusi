@@ -1,4 +1,6 @@
 Rencana Kedepan
   -mengerti react.js
+    *syntax react
+    *istilah istilahnya
   -mengerti node.js
   -mengerti git
