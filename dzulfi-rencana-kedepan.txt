@@ -6,3 +6,5 @@ Rencana Kedepan
     *istilah istilahnya
   - PHP Framework
   -mengerti git
+    *push and pull
+  -Python
