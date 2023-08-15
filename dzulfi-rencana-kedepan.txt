@@ -1,7 +1,8 @@
 Rencana Kedepan
+  -Javascirpt
+  -framework Javascript
   -mengerti react.js
     *syntax react
     *istilah istilahnya
   - PHP Framework
-  -mengerti node.js
   -mengerti git
