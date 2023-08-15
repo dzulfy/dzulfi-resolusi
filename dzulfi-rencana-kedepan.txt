@@ -1,7 +1,11 @@
 Rencana Kedepan
+  -Javascript
   -mengerti react.js
     *syntax react
     *istilah istilahnya
   - PHP Framework
+    *Laravel
   -mengerti node.js
   -mengerti git
+    *push and pull
+  -Python
